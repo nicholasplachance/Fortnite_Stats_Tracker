@@ -7,7 +7,7 @@ from fortnite_python.domain import Mode
 import datetime
 
 #Open spreadsheet
-spreadsheet = open("Fortnite Stats.xlsx", "a")
+spreadsheet = open("Fortnite_Stats.xlsx", "a")
 headers = "Date/Time, Name, Wins, KDR, Kills, Matches, Score\n"
 #spreadsheet.write(headers)
 
